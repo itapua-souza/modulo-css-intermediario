@@ -1,0 +1,29 @@
+
+
+.alinhado-esquerda {
+text-align: left;
+}
+.alinhado-direita {
+text-align: right;
+
+}
+.alinhado-centro {
+text-align: center;
+
+}
+
+
+/* ------- Alinhamento justificado ----------- */
+
+.alinhado-justificado {
+
+    text-align: justify;
+}
+.fundo-alinhamento{background-color: #555;}
+/* ----------------- Text Trasnform----------------- */
+.maiuscula{text-transform: uppercase;}
+
+.minuscula{text-transform: lowercase;}
+
+.capitalizado{text-transform: capitalize;}
+.fundo-transform {background-color: peru;}
