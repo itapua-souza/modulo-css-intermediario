@@ -1,0 +1,24 @@
+/* .container-cascata {
+background-color: aqua;
+
+}
+.container-cascata{ 
+
+background-color: orange;
+
+} */
+
+
+           /* --------Especifidades--------- */
+
+
+           p {background-color: lightblue;
+
+           }
+
+           .container-especifidade p {
+            background-color:chartreuse;
+
+
+           }
+
