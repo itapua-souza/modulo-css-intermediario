@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Milky';
+    src: url('./fonts/MilkyNice.otf'),url('./fonts/MilkyNice.ttf'),
+    
+
+
+}
+@font-face {
+    font-family: fabada;
+    src: url('./fonts/Fabada-regular.otf'),
+     url('./fonts/Fabada-regular.ttf');
+}
+
+
+
+
+
+
+
+h1{
+font-family: Milky;
+
+}
+p{
+
+    font-family: fabada ;
+}

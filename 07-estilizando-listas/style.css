@@ -1,0 +1,25 @@
+* {
+margin: 0
+;
+pa
+
+}
+ol  li{
+
+ list-style-image: url('./img/icon.png');  
+/* list-style : square url('./img/icon.png') */
+background-color: blue;
+border: 1px solid black;
+}
+
+ul li {
+
+border: 1px solid black;
+
+}
+ul {
+
+    list-style-image: url('./img/icon.png');  
+    /* list-style : square url('./img/icon.png') */
+    background-color: red;
+    
