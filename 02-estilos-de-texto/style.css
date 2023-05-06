@@ -27,3 +27,35 @@ text-align: center;
 
 .capitalizado{text-transform: capitalize;}
 .fundo-transform {background-color: peru;}
+/* -------------- Text Decoration ------------- */
+.sublinhado{
+
+    text-decoration: underline;
+}
+.linha-sobreposta{
+
+    text-decoration: line-through;
+}
+.sem-text-decoration{
+
+    text-decoration: none;
+}
+.fundo{
+
+    background-color: #808080;}
+
+    /* --------------Sombra no texto-------------- */
+
+    .altura-entre-linhas{
+line-height: 40px;
+
+    }
+    .sombra-de-texto{
+
+        text-shadow: 2px 2px 1px #808080;
+    }
+
+.fundo-alinhamento{
+
+    padding: 20px;
+}
