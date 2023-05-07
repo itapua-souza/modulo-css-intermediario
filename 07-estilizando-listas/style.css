@@ -1,9 +1,8 @@
 * {
-margin: 0
+margin: 0px
 ;
-pa
-
-}
+padding: 0px
+    ;}
 ol  li{
 
  list-style-image: url('./img/icon.png');  
@@ -17,9 +16,10 @@ ul li {
 border: 1px solid black;
 
 }
-ul {
-
-    list-style-image: url('./img/icon.png');  
+ul {list-style-image: url('./img/icon.png');  
     /* list-style : square url('./img/icon.png') */
-    background-color: red;
+    
+
+}
+
     
