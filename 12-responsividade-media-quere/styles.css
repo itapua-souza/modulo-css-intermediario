@@ -19,5 +19,12 @@ body {
 main {
 background-color: white;
 padding: 30px;
-max
+margin: 0 auto;
+min-width: 320px;
+max-width: 900px;
 }
+main p {
+font-size: 16px;}
+
+
+
