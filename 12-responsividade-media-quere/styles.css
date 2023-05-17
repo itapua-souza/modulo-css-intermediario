@@ -26,5 +26,21 @@ max-width: 900px;
 main p {
 font-size: 16px;}
 
+@media (max-width:576px){
+.cabecalho{background-color: rgb(84, 84, 153);
+text-align: center;}
 
+.cabecalho nav {
+    float: none;
+}
+.cabecalho nav li {display: block;}
+}
+/* @media (max-width: 375px) {  }// dispositivos extra pequenos
 
+@media (max-width: 576px) {  } // dispositivos pequenos (celulares em posição paisagem, menos de 768px)
+
+@media (max-width: 768px) {  } // dispositivos médios (tablets, menos de 992px)
+
+@media (max-width: 992px) {  } // dispositivos grandes (desktops, menos de 1200px)
+
+@media (max-width: 1200px) {  } // dispositivos extra grandes (desktops grandes) // 1200px ou mais, não tem breakpoint */
